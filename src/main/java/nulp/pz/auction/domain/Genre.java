@@ -1,0 +1,5 @@
+package nulp.pz.auction.domain;
+
+public enum Genre {
+    WEDDING, EVENT, PORTRAIT, LANDSCAPE, FASHION, ARCHITECTURAL, TRAVEL, ADVERTISING, AERIAL, SCIENTIFIC;
+}
